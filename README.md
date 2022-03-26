@@ -6,7 +6,7 @@ Submitted by: Norman Cattles
 
 Time spent: **8** hours spent in total
 
-Link to project: (https://modern-shiny-horse.glitch.me)
+Link to project: (https://glitch.com/edit/#!/modern-shiny-horse)
 
 ## Required Functionality
 
