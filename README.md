@@ -38,10 +38,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/gSlVv7dZPV.gif)  // win entire game
-![](http://g.recordit.co/3zufI0X4No.gif) //lose game 
-![](http://g.recordit.co/vQ8Z1dC88Z.gif) //stop
+Winning Game:
+![](http://g.recordit.co/gSlVv7dZPV.gif)  
+Losing Game:
+![](http://g.recordit.co/3zufI0X4No.gif) 
+Stopping Game:
+![](http://g.recordit.co/vQ8Z1dC88Z.gif) 
 ![](gif4-link-here)
 
 ## Reflection Questions
