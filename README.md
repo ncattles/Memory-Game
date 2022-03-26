@@ -8,6 +8,8 @@ Time spent: **8** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/modern-shiny-horse)
 
+Live site: (https://modern-shiny-horse.glitch.me)
+
 ## Required Functionality
 
 The following **required** functionality is complete:
